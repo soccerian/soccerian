@@ -1,4 +1,3 @@
-# Brandon Galli
 
 Senior software enginer has over 10+ years fo experience in IT field.
 
