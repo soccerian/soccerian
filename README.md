@@ -69,7 +69,7 @@ If you searched for **Python developer**, **Django engineer**, **FastAPI backend
 
 ## Let’s connect
 
-- **GitHub**: [@username](https://github.com/username) ← *swap in your handle*
+- **GitHub**: [@username](https://github.com/soccerian) ← *swap in your handle*
 - **Email**: [brandongalli32@gmail.com](mailto:brandongalli32@gmail.com)
 
 ---
