@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/soccerian?tab=repositories">Repositories</a> ·
-  <a href="mailto:brandongalli32@gmail.com">Email</a>
+  <a href="mailto:brandongalli32@gmail.com">Email</a> ·
   <a href="https://www.brandongalli.com">Website</a>
 </p>
 
@@ -69,7 +69,7 @@ If you searched for **Python developer**, **Django engineer**, **FastAPI backend
 
 ## Let’s connect
 
-- **GitHub**: [@username](https://github.com/soccerian) ← *swap in your handle*
+- **GitHub**: [@soccerian](https://github.com/soccerian)
 - **Email**: [brandongalli32@gmail.com](mailto:brandongalli32@gmail.com)
 
 ---
