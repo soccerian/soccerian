@@ -1,7 +1,7 @@
 <!-- Copy this file to: https://github.com/username/username/blob/main/README.md -->
 <!-- Replace `username` with your GitHub username everywhere below. -->
 
-<h1 align="center">Hi, I'm Brandon Galli 👋</h1>
+<h1 align="center">Hi, I'm Soccerian 👋</h1>
 
 <p align="center">
   <strong>Senior Software Engineer</strong> · Full Stack &amp; Python · Bedminster, NJ
